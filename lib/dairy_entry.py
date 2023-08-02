@@ -33,3 +33,5 @@ class DiaryEntry:
     
     def _contents_words(self):
         return self.contents.split()
+    
+    ewf
